@@ -5,3 +5,5 @@ This repo contains presentation files to be used as the basis for presentations 
 
 * An Apple Keynote presentation, created using the latest version of Keynote.
 * A PowerPoint example is coming soon.
+
+[Download this repo as a .zip](https://github.com/xamarin/evolve-2014-presentation-template/archive/master.zip) to get started.
